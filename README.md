@@ -25,5 +25,6 @@ Sou formado em **Técnico de Informática** e atualmente estou mergulhado nos es
 - 📸 **Instagram:** [@danilowebstudio](https://www.instagram.com/danilowebstudio/)
 
 ---
+![Estatísticas do Danilo](https://github-readme-stats.vercel.app/api?username=daniloxinglid&show_icons=true&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daniloxinglid&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloxinglid&layout=compact&theme=radical)
